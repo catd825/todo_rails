@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  list: one
+  task: MyString
+  description: MyText
+  date: 2023-03-13 21:25:02
+  completed: false
+
+two:
+  list: two
+  task: MyString
+  description: MyText
+  date: 2023-03-13 21:25:02
+  completed: false
